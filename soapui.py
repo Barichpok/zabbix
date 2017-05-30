@@ -48,4 +48,4 @@ if __name__ == "__main__":
     main()
 
 # /usr/lib/zabbix/externalscripts
-# sudo -u zabbix python logging.py 'TestCase 1'
+# sudo -u zabbix python soapui.py 'TestCase 1'
